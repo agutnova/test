@@ -47,7 +47,9 @@ namespace Captcha
             pictureBox6.BorderStyle = BorderStyle.None;
             pictureBox7.BorderStyle = BorderStyle.None;
             pictureBox8.BorderStyle = BorderStyle.None;
-            pictureBox9.BorderStyle = BorderStyle.None;
+            pictureBox9.BorderStyle = BorderStyle.Fixed3D;
+            //pictureBox9.BorderStyle = BorderStyle.None;
+
         }
 
     }
